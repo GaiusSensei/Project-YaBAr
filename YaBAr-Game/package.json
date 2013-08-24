@@ -1,0 +1,21 @@
+{
+  "name": "YaBAr-Game",
+  "version": "0.0.1",
+  "author": "Erik Gaius Capistrano <erik@gaius.me>",
+  "description": "Yet another Blitz Aegis reboot, 2013 :)",
+  "main": "./server.js",
+  "keywords": [
+    "azure",
+    "express",
+    "game"
+  ],
+  "dependencies": {
+    "jade": "*",
+    "express": "~3.1.0"
+  },
+  "noAnalyze": true,
+  "license": "Apache",
+  "engines": {
+    "node": ">=0.6.14"
+  }
+}
